@@ -3,6 +3,9 @@
 
 http://code.tutsplus.com/tutorials/testing-in-nodejs--net-35018
 
+wikipedia:
+http://jsfiddle.net/gautamadude/HMJJg/1/
+http://jsfiddle.net/Wsupf/4/
 	
 npm install -g mocha
 
